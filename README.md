@@ -1,7 +1,8 @@
-### Olá 👋, Bem vindo ao meu perfil do GitHub ![Visitas](https://visitor-badge.glitch.me/badge?page_id=GustoVasconcelos.GustoVasconcelos&style=flat-square&color=0088cc)
+### Olá 👋, Bem vindo ao meu perfil do GitHub ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=GustoVasconcelos.GustoVasconcelos&style=flat-square&color=0088cc)
 
 
 ### Contente por te ver aqui!
+- 🎓 &nbsp; Formação em andamento em Análise e Desenvolvimento de Sistemas pela Universidade de Tecnologia de Presidente Prudente (Fatec PP).
 - 🎓 &nbsp; Formado em Técnologo em Redes de Computadores pela Universidade do Oeste Paulista (Unoeste).
 - 🤓 &nbsp; Atualmente trabalhando na TV Bandeirantes de Presidente Prudente.
 - ✨ &nbsp; Sempre tentando aprender coisas novas, principalmente com erros.
