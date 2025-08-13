@@ -8,9 +8,9 @@
 - ✨ &nbsp; Sempre tentando aprender coisas novas, principalmente com erros.
 
 ### Sobre mim:
-- 🛠 &nbsp; Atualmente estudando Zabbix e Grafana.
+<!-- - 🛠 &nbsp; Atualmente estudando Zabbix e Grafana. -->
 - 🚀 &nbsp; Em busca constante por aprendizado.
-- 📫 &nbsp; Meu e-mail para contato: avasconcelos@lothuscorp.com.br
+- 📫 &nbsp; Meu e-mail para contato: augusto@lothuscorp.com.br
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustoVasconcelos&show_icons=true&theme=dark)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustoVasconcelos&layout=demo&theme=dark)-->
